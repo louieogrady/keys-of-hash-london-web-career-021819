@@ -1,5 +1,12 @@
+require 'pry'
+
 class Hash
   def keys_of(arguments)
-    # code goes here
+array = []
+if arguments == 
+  binding.pry 
+  array << "red-footed tortoise"
+end 
+return array
   end
 end
